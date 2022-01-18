@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://github.com/marthexmit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marthexmit&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marthexmit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthexmit&layout=compact&langs_count=7&theme=tokyonight"/>
   <img align="right" alt="Mathe-pic" height="150" style="border-radius:50px;"
   src = "https://share-cdn.picrew.me/shareImg/org/202201/684058_Xeht06ze.png"> 
