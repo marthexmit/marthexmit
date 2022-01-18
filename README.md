@@ -1,9 +1,9 @@
-### Olá! Eu eu sou o Matheus Grigoleto
+### Hi! I'm Matheus Grigoleto
 
--🏭 Hoje trabalho com redes/erp/suporte<br>
--📚 Estudando PHP com framework Laravel<br>
--🎓 Graduando Ciências da computação<br>
--📈 Meu objetivo é crescer na área da programação<br>
+-🏭 Today I work with networks/erp/support<br>
+-📚 Studying PHP with Laravel Framework<br>
+-🎓 Graduating Computer Science<br>
+-📈 My goal is to grow in programming<br>
 
 <div align="left">
   <a href="https://github.com/marthexmit">
