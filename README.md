@@ -1,12 +1,12 @@
-### Olá! Eu sou o Matheus Grigoleto
+### Olá! Eu eu sou o Matheus Grigoleto
 
 -🏭 Hoje trabalho com redes/erp/suporte<br>
 -📚 Estudando PHP com framework Laravel<br>
 -🎓 Graduando Ciências da computação<br>
 -📈 Meu objetivo é crescer na área da programação<br>
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+<div align="left">
+  <a href="https://github.com/marthexmit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marthexmit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthexmit&layout=compact&langs_count=7&theme=tokyonight"/>
   <img align="right" alt="Mathe-pic" height="150" style="border-radius:50px;"
