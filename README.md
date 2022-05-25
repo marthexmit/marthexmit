@@ -2,6 +2,7 @@
 
 -🏭 Today I work with networks/erp/support<br>
 -📚 Studying PHP with Laravel Framework<br>
+-📚 Interning AEM with Vue.js<br>
 -🎓 Graduating Computer Science<br>
 -📈 My goal is to grow in programming<br>
 
