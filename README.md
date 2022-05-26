@@ -1,7 +1,6 @@
 ### Hi! I'm Matheus Grigoleto
 
 -🏭 I have knowledge with networks/erp/support<br>
--📚 Studying PHP with Laravel Framework<br>
 -📚 Interning AEM with Vue.js<br>
 -🎓 Graduating Computer Science<br>
 -📈 My goal is to grow in programming<br>
