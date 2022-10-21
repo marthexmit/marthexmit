@@ -1,7 +1,7 @@
 ### Hi! I'm Matheus Grigoleto
 
 -🏭 I have knowledge with networks/erp/support<br>
--📚 Interning AEM with Vue.js<br>
+-📚 Interning Inovation-Automated Test<br>
 -🎓 Graduating Computer Science<br>
 -📈 My goal is to grow in programming<br>
 
